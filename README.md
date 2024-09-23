@@ -12,7 +12,7 @@ Or perhaps, you came across an interesting recipe or renovation tutorial. You wa
 gauge the community's sentiment towards the video. YouTube dislikes have now been 
 abolished. Here's where sentiment analysis could help. 
 
-Many other use cases could be handled. In fact, this program supports a custom prompts 
+Many other use cases could be handled. In fact, this program supports custom prompts 
 for any other scenario you could think of, using Gemini 1.5 Flash API which is 
 **[absolutely free to a large extent](https://ai.google.dev/pricing)**.
 
