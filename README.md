@@ -25,8 +25,8 @@ generates multiple responses based on the comments, one response for each chunk.
 Alternatively, a summary of Gemini AI's chunk-wise responses can be generated.
 
 This project supports three features: 
-1. Fetch comments into a timestamped text file, so you can search the comments in a 
-   text file using any text editor using the time-tested Ctrl+F feature. No AI 
+1. Fetch comments into a timestamped text file, to enable you to search the comments for a given search term
+   using any text editor using the time-tested Ctrl+F feature. No AI 
    involved here.
 2. Fetch comments and analyse them via Gemini AI by using the command line interface.
 3. Feature #2, by using a basic GUI created with Tkinter.
