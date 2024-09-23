@@ -3,7 +3,7 @@ import os
 
 import google.generativeai as genai
 from dotenv import load_dotenv
-from tiktoken import encoding_for_model  # To count tokens
+from tiktoken import encoding_for_model
 
 from fetch_youtube_comments import fetch_youtube_comments, get_video_id_from_url
 
